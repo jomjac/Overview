@@ -9,7 +9,7 @@ I am José María, a self-taught programming enthusiast. I started my programmin
 <p>
   <em>
     I graduated from the <a href="http://www.lamolina.edu.pe/"> <b>National Agrarian University La Molina</b></a>.🌱<br>
-    25 years waiting for the plow twist of my life. 🌌 <br>
+     <br>
     I'm a <b> friendly Developer</b> and a <b>learning enthusiast</b><img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Rocket.gif" width="18"> who is who is obsessed with the idea of improving himself. <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20"> <br>
     I have a dog, her name is <b>Paris</b>🐕‍🦺 and she makes my life happy✨. <br>
    
