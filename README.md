@@ -1,4 +1,4 @@
-# JOMJAC&nbsp;<img src="https://media.giphy.com/media/frAqrq8f3cgwGxHfCD/giphy.gif" width="50">
+
   
 ### Hello!! 👋🏽🌎
 
